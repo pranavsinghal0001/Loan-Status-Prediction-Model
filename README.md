@@ -2,6 +2,8 @@
 
 # Diabetes-Prediction-Model
 
-# Kake-News-Prediction-Model
+# Fake-News-Prediction-Model
 
 # Loan-Status-Prediction-Model
+
+# Wine-Quality-Prediction-Model
