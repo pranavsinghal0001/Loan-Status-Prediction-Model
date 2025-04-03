@@ -7,3 +7,5 @@
 # Loan-Status-Prediction-Model
 
 # Wine-Quality-Prediction-Model
+
+# Car-Price-Prediction-Model
